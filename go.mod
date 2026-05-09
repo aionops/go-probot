@@ -1,6 +1,6 @@
 module github.com/airconduct/go-probot
 
-go 1.25.0
+go 1.26
 
 require (
 	github.com/bradleyfalzon/ghinstallation/v2 v2.18.0
