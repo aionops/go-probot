@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/airconduct/go-probot"
+	"github.com/aionops/go-probot"
 	"github.com/google/go-github/v48/github"
 )
 
