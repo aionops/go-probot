@@ -12,7 +12,7 @@ import (
 
 	"github.com/h2non/gock"
 
-	"github.com/airconduct/go-probot"
+	"github.com/aionops/go-probot"
 )
 
 type AppMock[GT probot.GitClientType] interface {

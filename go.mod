@@ -1,4 +1,4 @@
-module github.com/airconduct/go-probot
+module github.com/aionops/go-probot
 
 go 1.26
 

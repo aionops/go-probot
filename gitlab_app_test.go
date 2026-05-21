@@ -12,8 +12,8 @@ import (
 	"github.com/spf13/pflag"
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/airconduct/go-probot"
-	"github.com/airconduct/go-probot/mock"
+	"github.com/aionops/go-probot"
+	"github.com/aionops/go-probot/mock"
 )
 
 func TestGitLabApp(t *testing.T) {

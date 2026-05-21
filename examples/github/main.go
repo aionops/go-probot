@@ -6,7 +6,7 @@ import (
 	"github.com/google/go-github/v48/github"
 	"github.com/spf13/pflag"
 
-	"github.com/airconduct/go-probot"
+	"github.com/aionops/go-probot"
 )
 
 func main() {

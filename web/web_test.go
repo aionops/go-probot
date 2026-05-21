@@ -8,8 +8,8 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/airconduct/go-probot/web"
-	"github.com/airconduct/go-probot/web/backend"
+	"github.com/aionops/go-probot/web"
+	"github.com/aionops/go-probot/web/backend"
 )
 
 var _ = Describe("Web", func() {

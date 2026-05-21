@@ -13,8 +13,8 @@ import (
 	"github.com/onsi/gomega"
 	"github.com/spf13/pflag"
 
-	"github.com/airconduct/go-probot"
-	"github.com/airconduct/go-probot/mock"
+	"github.com/aionops/go-probot"
+	"github.com/aionops/go-probot/mock"
 )
 
 func TestGitHubAPP(t *testing.T) {

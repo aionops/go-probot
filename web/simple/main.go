@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/airconduct/go-probot/web"
-	"github.com/airconduct/go-probot/web/backend"
+	"github.com/aionops/go-probot/web"
+	"github.com/aionops/go-probot/web/backend"
 )
 
 func main() {

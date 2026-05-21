@@ -15,7 +15,7 @@ import (
 	"github.com/spf13/pflag"
 	"golang.org/x/oauth2"
 
-	"github.com/airconduct/go-probot/web"
+	"github.com/aionops/go-probot/web"
 )
 
 func NewGitHubAPP() App[GitHubClient] {

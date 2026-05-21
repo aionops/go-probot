@@ -9,7 +9,7 @@ import (
 	"github.com/emicklei/go-restful/v3"
 	"github.com/go-openapi/spec"
 
-	"github.com/airconduct/go-probot/web/backend"
+	"github.com/aionops/go-probot/web/backend"
 )
 
 //go:embed dist/*
